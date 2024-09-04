@@ -64,7 +64,7 @@ public static class World
         Quest clearAlchemistGarden =
             new Quest(
                 QUEST_ID_CLEAR_ALCHEMIST_GARDEN,
-                "Clear the alchemist's garden",
+                "Clear the alchemist's garden SUIIIIII",
                 "Kill rats in the alchemist's garden ");
 
 
